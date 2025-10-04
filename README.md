@@ -5,5 +5,3 @@ I’m an undergraduate Computer Engineering student at National and Kapodistrian
 -  📥 Contact me at [panagiotis@vardalas.com](mailto:panagiotis@vardalas.com)
 -  🌐 Visit my page: [vardalas.com](https://vardalas.com)
 -  📄 Check my CV: [cv.vardalas.com](https://cv.vardalas.com)
-  
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=pvardalas&show_icons=true)
