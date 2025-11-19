@@ -4,4 +4,4 @@ I’m an undergraduate Computer Engineering student at National and Kapodistrian
 
 -  📥 Contact me at [panagiotis@vardalas.com](mailto:panagiotis@vardalas.com)
 -  🌐 Visit my page: [vardalas.com](https://vardalas.com)
--  📄 Check my CV: [cv.vardalas.com](https://cv.vardalas.com)
+-  📄 Check my CV: [vardalas.com/CV](https://vardalas.com/CV)
